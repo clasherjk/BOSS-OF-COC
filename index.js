@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to /help"];
+const statusMessages = ["Managed by Jk"];
 
 
 let currentIndex = 0;
